@@ -4,7 +4,16 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+// function likeHeart(event) {
+//   let corazon = event.target
+// }
 
+// const heartGroup = document.querySelectorAll(".like")
+// for (heart in heartGroup) {
+//   heart.addEventListener('click', likeHeart)
+// }
+
+//not sure if I needed to do this since there was only one test^^
 
 
 //------------------------------------------------------------------------------
